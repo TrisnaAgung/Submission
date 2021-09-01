@@ -1,0 +1,3 @@
+include ':greendaoGenerator'
+include ':app'
+rootProject.name = "Submission"
